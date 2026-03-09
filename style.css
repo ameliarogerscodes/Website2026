@@ -1,0 +1,16 @@
+h1 {
+    text-align:center;
+}
+
+p {
+    width:400px;
+}
+
+#main {
+    color: red;
+    background-color: antiquewhite;
+}
+
+.link {
+    border:2px solid black;
+}
